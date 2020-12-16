@@ -1,0 +1,22 @@
+{
+  "name": "api_loader",
+  "version": "1.0.0",
+  "description": "mysql_api_loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"sads\""
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "amirhosein.gorji@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "base-64": "^1.0.0",
+    "glob": "^7.1.6"
+  }
+}
